@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{2096C088-8EAD-404D-BAA3-D53AB7FEB65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "..\..\..\Desktop\universidad marcelo\solovisual\CapaLogica\CapaPresentacion\CapaPresentacion.csproj", "{6659192F-25F0-45D4-B3C1-43BEBCB5907B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2096C088-8EAD-404D-BAA3-D53AB7FEB65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2096C088-8EAD-404D-BAA3-D53AB7FEB65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2096C088-8EAD-404D-BAA3-D53AB7FEB65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2096C088-8EAD-404D-BAA3-D53AB7FEB65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6659192F-25F0-45D4-B3C1-43BEBCB5907B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6659192F-25F0-45D4-B3C1-43BEBCB5907B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6659192F-25F0-45D4-B3C1-43BEBCB5907B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6659192F-25F0-45D4-B3C1-43BEBCB5907B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B761B3-CDC0-429A-9EEC-429F2E5B2928}
+	EndGlobalSection
+EndGlobal
